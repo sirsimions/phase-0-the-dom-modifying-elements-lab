@@ -2,5 +2,5 @@
 document.querySelector('main').remove();
 const newHeader = document.createElement('h1');
 newHeader.id = "victory";
-newHeader.innerHTML =  "Simio is the champion";
+newHeader.innerHTML =  "Simion is the champion";
 
